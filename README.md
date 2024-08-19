@@ -1,6 +1,6 @@
+theme: jekyll-remote-theme
 
 1. [click here to jump to booya](#custom_booyah_name)
-
 2. [click here to jump to code](#custom_anchor_name)
 3. [click here to jump to my professional](#custom_blah_name)
 4. [click here to jump to my HECK YEs](#custom_coder_name)
