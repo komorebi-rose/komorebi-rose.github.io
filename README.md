@@ -16,7 +16,6 @@ hello world
 
 
 <a name="custom_anchor_name"></a>
-
 # some header
 
 
