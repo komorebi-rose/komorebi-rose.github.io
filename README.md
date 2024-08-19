@@ -1,4 +1,9 @@
-theme: jekyll-remote-theme
+
+![Sg7SwOJLuCr9zQ6A333tpg](https://github.com/user-attachments/assets/3f9b9685-8f21-42a0-93cc-5e73e24665c3)
+
+
+![Java_(programming_language)-Logo wine](https://github.com/user-attachments/assets/86c8ab92-7972-4a93-9c3b-62cb9163e7d7)
+
 
 1. [click here to jump to booya](#custom_booyah_name)
 2. [click here to jump to code](#custom_anchor_name)
@@ -6,6 +11,7 @@ theme: jekyll-remote-theme
 4. [click here to jump to my HECK YEs](#custom_coder_name)
 5. [click here to jump to my YAAAAS](#custom_upyours_name)
 
+![mongodb-logo-png](https://github.com/user-attachments/assets/92d8813d-5ee4-41d3-a31c-d3833fc67fcb)
 
 
 <a name="custom_booyah_name"></a>
